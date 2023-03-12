@@ -1,7 +1,6 @@
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+meangpu;I'm+from+Thailand;I'm+a+Unity+Game+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+meangpu;I'm+from+Thailand;I'm+a+Unity+Game+Developer;Be+Welcome!+ツ)
 
   <div align="center">
     <br>
@@ -14,6 +13,7 @@
   
   <div style="display: inline_block">
     <p align="center">
+      <a href="#">
       <img align="center" alt="Unity" height="30" width="30" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg">
       <img align="center" alt="Logo do C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
       <img align="center" alt="Logo do JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,9 +27,10 @@
       <img align="center" alt="Blender" height="30" width="40" src="https://download.blender.org/branding/community/blender_community_badge_white.svg">
       <img align="center" alt="figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
       <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+      </a> 
     </p>
   </div>
-</a> 
+
 
 <br>
 <br>

@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+meangpu;I'm+from+Thailand;I'm+a+Unity+Game+Developer;Be+Welcome!+ツ)
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+meangpu;I'm+from+Thailand;I'm+a+Unity+Game+Developer;Be+Welcome!+ツ)
 
   <div align="center">
     <br>
@@ -30,7 +31,7 @@
       </a> 
     </p>
   </div>
-
+</a>
 
 <br>
 <br>

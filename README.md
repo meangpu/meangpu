@@ -42,11 +42,12 @@
     </a>
   </p>
 </div>
-<img src="https://komarev.com/ghpvc/?username=meangpu&color=brightgreen">
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=meangpu&color=brightgreen"> Profile view updated on 25-May-2024
 
 ![Snake animation](https://github.com/meangpu/meangpu/blob/output/github-contribution-grid-snake-dark.svg)
 ![3D profile](./profile-3d-contrib/profile-night-green.svg)

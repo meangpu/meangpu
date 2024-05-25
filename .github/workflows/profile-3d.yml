@@ -1,6 +1,7 @@
 name: profile-3d
 
 on:
+  # Schedule daily updates
   schedule: [{ cron: "0 0 * * *" }]
   # workflow_dispatch:
 

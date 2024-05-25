@@ -42,7 +42,7 @@
     </a>
   </p>
 </div>
-![](https://komarev.com/ghpvc/?username=meangpu&abbreviated=true&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=meangpu&color=brightgreen)
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>

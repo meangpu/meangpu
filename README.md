@@ -48,5 +48,5 @@
 </a>
 
 ![Snake animation](https://github.com/meangpu/meangpu/blob/output/github-contribution-grid-snake.svg)
-![](./profile-3d-contrib/profile-green-animate.svg)
+![3D profile](./profile-3d-contrib/profile-night-green.svg)
 <img src="/github-metrics.svg" alt="Metrics" width="100%">

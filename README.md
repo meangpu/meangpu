@@ -43,10 +43,10 @@
   </p>
 </div>
 
-![Snake animation](https://github.com/meangpu/meangpu/blob/output/github-contribution-grid-snake.svg)
-![](./profile-3d-contrib/profile-green-animate.svg)
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
+
+![Snake animation](https://github.com/meangpu/meangpu/blob/output/github-contribution-grid-snake.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
